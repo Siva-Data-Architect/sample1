@@ -1,1 +1,2 @@
 sample1-b2-changed in master cib2
+line1 in master
